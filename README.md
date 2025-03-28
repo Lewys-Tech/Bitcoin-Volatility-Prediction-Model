@@ -1,4 +1,4 @@
-# Cryptocurrency Volatility Prediction
+# Cryptocurrency(Bitcoin) Volatility Prediction
 
 This project implements a machine learning model to predict cryptocurrency volatility using historical data and advanced features.
 
